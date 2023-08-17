@@ -1,8 +1,8 @@
 # Intro to Machine Learning
 
-Open the `Intro to Machine Learning.ipynb` notebook in [Google Colab](https://colab.research.google.com/github/sagecodes/intro-machine-learning-python/blob/main/intro-machine-learning.ipynb) to follow along with the workshop.
+Open the `Intro to Machine Learning.ipynb` notebook in [Google Colab](https://colab.research.google.com/github/sagecodes/intro-machine-learning-python/blob/main/Intro_to_Machine_Learning_with_Python.ipynb) to follow along with the workshop.
 
-<a target="_blank" href="https://colab.research.google.com/github/sagecodes/intro-machine-learning-python/blob/main/intro-machine-learning.ipynb">
+<a target="_blank" href="https://colab.research.google.com/github/sagecodes/intro-machine-learning-python/blob/main/Intro_to_Machine_Learning_with_Python.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
