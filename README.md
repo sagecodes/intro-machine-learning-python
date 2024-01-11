@@ -6,5 +6,5 @@ Open the `Intro to Machine Learning.ipynb` notebook in [Google Colab](https://co
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
-Slides for the Intro to Machine Learning workshop [On Google Drive](https://docs.google.com/presentation/d/11JK5J2lhdxTbrh_lHiKznxW5NB8hs74t8lJeRchT6cU/edit?usp=sharing).
+Slides for the Intro to Machine Learning workshop [On Google Drive](https://docs.google.com/presentation/d/1HOS7HN7lRXb_ETZhByUHSiCk_j-vF2VFPceqnsjcLW8/).
 
