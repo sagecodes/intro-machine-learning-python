@@ -1,4 +1,4 @@
-# Intro to Machine Learning
+# Intro to Machine Learning using Python and scikit learn
 
 Open the `Intro to Machine Learning.ipynb` notebook in [Google Colab](https://colab.research.google.com/github/sagecodes/intro-machine-learning-python/blob/main/Intro_to_Machine_Learning_with_Python.ipynb) to follow along with the workshop.
 
